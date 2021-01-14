@@ -1,3 +1,3 @@
 # HackerRank-CPP
 
-In this repository I'll be uloading solutions to HackerRank CPP problems
+In this repository I'll be uploading solutions to HackerRank CPP problems
